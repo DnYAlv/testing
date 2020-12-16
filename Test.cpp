@@ -7,5 +7,7 @@ int main(){
     puts("Bye world");
     puts("wow");
 
+    puts("Alo");
+
     return 0;
 }
